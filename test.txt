@@ -4,4 +4,8 @@ mem : commit-1
 
 mem : commit-2
 
+<<<<<<< HEAD
 mem :commit -3
+=======
+main : commit-2
+>>>>>>> 58cd5ca50132bb463ae23c1ed46a125ed6b5ad64
